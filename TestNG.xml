@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android Calendar Tests Suites" thread-count="1">
+    <test name="1" junit="true" >
+        <classes>
+            <class name="Tests.CalendarTests.CreateNewEvent"/>
+            <class name="Tests.CalendarTests.DeleteEvent"/>
+        </classes>
+    </test>
+</suite>
