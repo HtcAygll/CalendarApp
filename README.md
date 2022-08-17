@@ -6,10 +6,7 @@ Prerequisites
 For this Project to be run, user should login his Google Account before. 
 Google Email Account and Calendar Synchronization steps are out of scope of this task.
 
-
-Note : 
-Added screenshot: After tests are run, the screenshot will be created under regarding file. 
-
+This project is for Android Calendar app, used Appium as automation framework, Java is used as programming language, TestNG is used as Assertion tool
 
 There are desired Capabilities In order to run the test properly, you should use this kind of Emulator with the versions and specificaions.
 {
@@ -21,5 +18,7 @@ There are desired Capabilities In order to run the test properly, you should use
 }
 
 
-No much test cases were not added, intentionally. There are some negative scenarios needs to be added but since we are focusing Automation test
+Screenshot is added. After tests are run, the screenshot will be created under regarding file. 
+
+Note: No much test cases were not added, intentionally. There are some negative scenarios needs to be added but since we are focusing Automation test
 structure by using Appium rather than the manuel test cases, to avoid some time consuming few test cases have been added. 
